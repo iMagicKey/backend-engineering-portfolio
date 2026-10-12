@@ -8,7 +8,14 @@ I'm a software engineer with approximately **15 years of programming experience*
 
 I work on backend architecture, API design, asynchronous workflows, reliable integrations, and reusable infrastructure. My experience includes PostgreSQL, Redis, real-time communication, and distributed task processing. I especially enjoy problems involving concurrency, failure recovery, and making complex systems understandable and maintainable.
 
-This repository is a curated overview of my engineering work. It starts with publicly available libraries; architecture case studies will be added separately.
+This repository is a curated overview of backend engineering work, publicly released packages, and selected architectural case studies.
+
+## Architecture case studies
+
+Selected technical write-ups describe the problem, architecture, engineering trade-offs, and which parts are implemented versus planned. They do not expose private source code or operational secrets.
+
+- **[RestoVibe — Multi-Tenant Restaurant SaaS Architecture](projects/restovibe.md):** database-per-tenant PostgreSQL, region/cluster placement, cluster health, transactional outbox, and the offline-first Edge foundation.
+- **[AgentForge — Autonomous AI Engineering](projects/agentforge.md):** GitHub-first worker orchestration, isolated agent execution, independent commit-bound review, merge-train validation, and reusable platform design.
 
 ## Open-source Node.js libraries
 
@@ -32,4 +39,4 @@ Explore additional libraries and projects on [my GitHub profile](https://github.
 
 ---
 
-*Project case studies will be added in separate updates, with a focus on engineering challenges, architectural decisions, trade-offs, and demonstrable results.*
+*Case studies describe engineering decisions and distinguish implemented capabilities from ongoing work and roadmap plans.*

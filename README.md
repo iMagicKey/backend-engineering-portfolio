@@ -18,6 +18,7 @@ Selected technical write-ups describe the problem, architecture, engineering tra
 - **[AgentForge — Autonomous AI Engineering](projects/agentforge.md):** GitHub-first worker orchestration, isolated agent execution, independent commit-bound review, merge-train validation, and reusable platform design.
 - **[Distributed Creator Operations Platform](projects/distributed-creator-platform.md):** active commercial system co-founded and maintained by me; distributed Node.js backend, workload orchestration, performance optimization, and infrastructure/application observability.
 - **[Telegram-Based Prediction Market Trading Platform](projects/telegram-prediction-market-platform.md):** active Polymarket/Telegram backend, idempotent order processing, financial ledger, cross-network funding, reconciliation, wallet authorization boundaries, and operational diagnostics.
+- **[Notedream — Reliable Voice Processing & AI-Assisted Journaling](projects/notedream.md):** Node.js backend for Telegram voice capture, transactional outbox, BullMQ/whisper.cpp transcription, version-aware AI analysis, manual-edit protection, and PostgreSQL RLS; active development with real users.
 
 ## Open-source Node.js libraries
 

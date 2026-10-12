@@ -17,6 +17,7 @@ Selected technical write-ups describe the problem, architecture, engineering tra
 - **[RestoVibe — Multi-Tenant Restaurant SaaS Architecture](projects/restovibe.md):** database-per-tenant PostgreSQL, region/cluster placement, cluster health, transactional outbox, and the offline-first Edge foundation.
 - **[AgentForge — Autonomous AI Engineering](projects/agentforge.md):** GitHub-first worker orchestration, isolated agent execution, independent commit-bound review, merge-train validation, and reusable platform design.
 - **[Distributed Creator Operations Platform](projects/distributed-creator-platform.md):** active commercial system co-founded and maintained by me; distributed Node.js backend, workload orchestration, performance optimization, and infrastructure/application observability.
+- **[Telegram-Based Prediction Market Trading Platform](projects/telegram-prediction-market-platform.md):** active Polymarket/Telegram backend, idempotent order processing, financial ledger, cross-network funding, reconciliation, wallet authorization boundaries, and operational diagnostics.
 
 ## Open-source Node.js libraries
 
